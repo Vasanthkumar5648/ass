@@ -7,4 +7,4 @@ pandas
 matplotlib
 seaborn
 pillow
-git+https://github.com/ultralytics/yolov5.git
+
